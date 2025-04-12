@@ -1,6 +1,9 @@
 #ifndef NODE_H
 #define NODE_H
 
+//node header file
+//by Tai Wong, 4/11/25
+
 enum Color { RED, BLACK };
 
 class Node {
